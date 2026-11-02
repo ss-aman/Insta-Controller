@@ -162,3 +162,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+python Ig_dm.py dm --users <(echo "deepamansingh17") --message <(echo "Hi you doing aman")
+"""
